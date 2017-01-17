@@ -7,7 +7,7 @@
 
 This is a a action plugin for easily creating WikkaWiki documents from Open Document Format (ODF).
 
-![Force Preview](https://raw.githubusercontent.com/pepitosoft/wikka-odf-action/master/images/webodfactionpreview.png)
+![Write preview](https://raw.githubusercontent.com/pepitosoft/wikka-odf-action/master/images/webodfactionpreview.png)
 
 Easy step:
 
@@ -29,7 +29,10 @@ For example:
  {{odf odffile="welcome.odt"}}
 ```
 
-Note that you need the ```{{files}}``` action, there you put only the name of the file.
+- Note1: that you need the ```{{files}}``` action, there you put only the name of the file.
+- Note2: Works with spreadsheats.
+
+![Spreadsheat Preview](https://raw.githubusercontent.com/pepitosoft/wikka-odf-action/master/images/webodfactionpreviewods.png)
 
 ### How install it?
 
